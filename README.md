@@ -1,6 +1,7 @@
 # BankMarketingPrediction
 
-The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+The data is from a direct marketing campaigns of a Portuguese banking institution from the UCI repository  https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.  
+
 
 Attribute Information:
 The data provided by UCI consists of 20 explanatory variables described below:

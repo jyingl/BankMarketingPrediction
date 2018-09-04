@@ -35,3 +35,4 @@ Input variables:
 Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
+S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
